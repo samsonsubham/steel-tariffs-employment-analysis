@@ -1,0 +1,9 @@
+,,avg_monthly_employment,avg_monthly_employment,avg_monthly_employment,total_qtrly_wages,total_qtrly_wages,avg_wkly_wage,avg_wkly_wage,qtrly_estabs,qtrly_estabs
+,,count,mean,std,mean,std,mean,std,mean,std
+industry_name,treatment_period,,,,,,,,,
+Iron and Steel,biden_era,9311,318.76,3326.6,9002906.36,95568236.07,294.14,767.86,5.24,38.12
+Iron and Steel,trump_era,2792,314.04,3249.49,6870893.47,72338607.84,204.54,549.32,4.93,35.05
+Motor Vehicle,biden_era,7560,1180.22,12622.0,27491781.82,295538409.95,246.68,791.76,5.49,35.04
+Motor Vehicle,trump_era,2528,1083.19,10842.74,22674978.17,228025023.52,201.4,708.54,4.57,28.54
+Textile Mills,biden_era,16950,255.73,2910.12,3630369.92,40652025.75,313.43,653.26,9.15,84.33
+Textile Mills,trump_era,5570,268.31,3047.7,3377424.5,37732602.3,272.44,593.21,9.03,82.52

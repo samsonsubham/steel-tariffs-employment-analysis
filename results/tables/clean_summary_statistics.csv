@@ -1,0 +1,7 @@
+industry_name,treatment_period,avg_monthly_employment,total_qtrly_wages,avg_wkly_wage
+Iron and Steel,biden_era,2094.54,59157417.85,1932.79
+Iron and Steel,trump_era,2307.38,50482985.71,1502.86
+Motor Vehicle,biden_era,10399.18,242235280.33,2173.51
+Motor Vehicle,trump_era,10104.41,211521567.59,1878.77
+Textile Mills,biden_era,1017.29,14441391.73,1246.81
+Textile Mills,trump_era,1098.88,13832540.03,1115.8
